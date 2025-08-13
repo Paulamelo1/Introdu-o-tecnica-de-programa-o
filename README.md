@@ -1,6 +1,21 @@
-# 📚 SOBRE O PROJETO
-  Este repositório apresenta soluções desenvolvidas para os desafios da plataforma Beecrowd, utilizando a linguagem C.
-  
-  As atividades integram a disciplina Introdução a Técnicas de Programação do Bacharelado em Tecnologia da Informação da Universidade Federal do Rio Grande do Norte (UFRN).
-  
-  Mais do que cumprir exercícios, este espaço é dedicado ao aperfeiçoamento de lógica de programação, ao domínio das estruturas fundamentais da linguagem C e ao desenvolvimento de raciocínio computacional para enfrentar problemas de forma clara, eficiente e criativa.
+## 📚 Sobre o Projeto
+
+💗 Este repositório reúne soluções para desafios da plataforma **Beecrowd**, desenvolvidas em **C**.  
+
+🎓 As atividades fazem parte da disciplina **Introdução a Técnicas de Programação** do **Bacharelado em Tecnologia da Informação - UFRN**.
+
+🌸 Mais do que apenas resolver exercícios, este espaço é dedicado a:
+- ✨ **Aprimorar a lógica de programação**
+- 📐 **Dominar as estruturas fundamentais da linguagem C**
+- 🧠 **Desenvolver raciocínio computacional**
+- 💡 **Praticar soluções claras, eficientes e criativas**
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+![🤍 C](https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=2a2a2a)
+
+---
+
+## 💌 Observação
+Este projeto é **pessoal e acadêmico**, com foco no aprendizado contínuo e no desenvolvimento de boas práticas.
